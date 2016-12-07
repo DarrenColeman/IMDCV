@@ -185,6 +185,22 @@ html .fixedFooter {
 	color: #ff751a;
 }
 
+.weather-panel .temp {
+    font-size: 5.9vw;
+    margin: 0px;
+    line-height: 60px;
+}
+.weather-panel .supersmall {
+    font-size: 9px;
+    margin-top: 0px;
+    }
+.wi {
+    font-size: 5.9vw;
+    }
+.weather-panel .col-sm-6 {
+    text-align: center;
+    }
+
 
 #googleMap
 {
@@ -221,6 +237,7 @@ html .fixedFooter {
     background-size: contain;
     background-repeat: no-repeat;
     height: 266px;
+	
 }
 
 .experience-padding-32{padding-top:32px!important;padding-bottom:32px!important}
