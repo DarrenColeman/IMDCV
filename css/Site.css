@@ -112,7 +112,7 @@ html #topBlock .mainContainer {
 }
 
 #Projects {
-	min-height: 100vh;
+	min-height: 150vh;
 	background-image: url(https://d1vjjaavvrxnn4.cloudfront.net/application/_img/salesite/nicheblock/bg.jpg);
 	background-size: cover;
     background-position: top center;
