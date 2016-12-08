@@ -7,7 +7,7 @@ var education = angular.module("education", []);
 				fourthYear: [
 					{
 						id: 1,
-						subject: "Enterprise Application Development 1",
+						subject: "Enterprise Application Development",
 						grade: "TBC"
 					},
 					{
@@ -17,7 +17,7 @@ var education = angular.module("education", []);
 					},
 					{
 						id: 3,
-						subject: "Interactive Media Design 1",
+						subject: "Interactive Media Design",
 						grade: "TBC"
 					},
 					{
@@ -39,8 +39,8 @@ var education = angular.module("education", []);
 				thirdYear: [
 					{
 						id: 1,
-						subject: "Algorithms and Data Structures 1",
-						grade: "B+"
+						subject: "Networking 3",
+						grade: "A"
 					},
 					{
 						id: 2,
@@ -55,22 +55,22 @@ var education = angular.module("education", []);
 					{
 						id: 4,
 						subject: "Web Design & Development 2",
-						grade: "B+"
+						grade: "B"
 					},	
 					{
 						id: 5,
 						subject: "Operating Systems",
-						grade: "B"
+						grade: "B-"
 					},	
 					{
 						id: 6,
 						subject: "Innovation & Entrepreneurship",
-						grade: "B"
+						grade: "B-"
 					},	
 					{
 						id: 7,
 						subject: "Cloud Services & Distributed Computing",
-						grade: "B-"
+						grade: "B+"
 					},	
 					{
 						id: 8,
@@ -87,7 +87,7 @@ var education = angular.module("education", []);
 					{
 						id: 2,
 						subject: "Discrete Mathematics",
-						grade: "A"
+						grade: "B+"
 					},	
 					{
 						id: 3,
@@ -97,27 +97,27 @@ var education = angular.module("education", []);
 					{
 						id: 4,
 						subject: "Networking 1",
-						grade: "B+"
+						grade: "C+"
 					},	
 					{
 						id: 5,
 						subject: "Software Quality Assurance & Testing",
-						grade: "B+"
+						grade: "A"
 					},
 					{
 						id: 6,
-						subject: "Software Development 4",
+						subject: "Computer Services Management",
 						grade: "B+"
 					},
 					{
 						id: 7,
-						subject: "Software Development 3",
-						grade: "B"
+						subject: "Financial Management",
+						grade: "B+"
 					},	
 					{
 						id: 8,
-						subject: "Project",
-						grade: "B"
+						subject: "Database Administration",
+						grade: "B+"
 					},	
 					{
 						id: 9,
@@ -126,19 +126,19 @@ var education = angular.module("education", []);
 					},	
 					{
 						id: 10,
-						subject: "Web Design & Development 1",
-						grade: "B"
+						subject: "Web Design & Development",
+						grade: "B+"
 					},
 					{
 						id: 11,
 						subject: "Object Oriented Analysis & Design",
-						grade: "C"
+						grade: "B"
 					}
 				],
 				firstYear: [
 					{
 						id: 1,
-						subject: "Social Media Communication's",
+						subject: "Social Media Communications",
 						grade: "A"
 					},
 					{
@@ -149,7 +149,7 @@ var education = angular.module("education", []);
 					{
 						id: 3,
 						subject: "Software Development 1",
-						grade: "B+"
+						grade: "B"
 					},
 					{
 						id: 4,
@@ -159,12 +159,12 @@ var education = angular.module("education", []);
 					{
 						id: 5,
 						subject: "Statistics",
-						grade: "B"
+						grade: "C"
 					},
 					{
 						id: 6,
 						subject: "Computer Architecture",
-						grade: "B"
+						grade: "B-"
 					},
 					{
 						id: 7,
@@ -174,22 +174,22 @@ var education = angular.module("education", []);
 					{
 						id: 8,
 						subject: "Learning to Learn at 3rd Level",
-						grade: "B-"
+						grade: "B+"
 					},
 					{
 						id: 9,
 						subject: "Operating Systems Fundamentals",
-						grade: "C"
+						grade: "B-"
 					},
 					{
 						id: 10,
 						subject: "Business & Information Systems",
-						grade: "C"
+						grade: "B+"
 					},
 					{
 						id: 11,
 						subject: "Fundamentals of Interface and Web Design",
-						grade: "C"
+						grade: "B"
 					}
 				]
 			};

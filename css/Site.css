@@ -19,9 +19,6 @@
     background-size: 100% 100%;
 	background-attachment: fixed;
 }
-#Daniel{
-	color: white;
-}
 
 html .nicheBlock {
     background-image: url(https://d1vjjaavvrxnn4.cloudfront.net/application/_img/salesite/nicheblock/bg.jpg);
@@ -111,6 +108,7 @@ html #topBlock .mainContainer {
     padding: 0 20px;
 }
 
+
 #Projects {
 	min-height: 150vh;
 	background-image: url(https://d1vjjaavvrxnn4.cloudfront.net/application/_img/salesite/nicheblock/bg.jpg);
@@ -177,6 +175,13 @@ html .fixedFooter {
     color: white;
 }
 
+#Nav{
+	color: white;
+}
+
+h3 { color: #ff751a; font-size: 48px; font-family: 'Signika', sans-serif; padding-bottom: 10px; }
+
+
 #Location {
 	min-height: 70vh;
 	background-size: cover;
@@ -205,6 +210,7 @@ html .fixedFooter {
 .weather-panel .col-sm-6 {
     text-align: center;
     }
+	
 
 
 #googleMap
